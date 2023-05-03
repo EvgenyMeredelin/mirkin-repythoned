@@ -1,0 +1,9 @@
+ID,AnnualIncome,MarketShare,NCustomers,ECommerce,Industry
+A1,19,0.2185,2,N,Chemicals
+A2,29.4,0.18,3,N,Chemicals
+A3,23.9,0.19,3,N,Metallurgy
+B1,18.4,0.1395,2,Y,Chemicals
+B2,25.7,0.1115,3,Y,Metallurgy
+B3,12.1,0.0845,2,Y,Metallurgy
+C1,23.9,0.151,4,Y,Sales
+C2,27.2,0.29,5,Y,Sales
